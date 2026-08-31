@@ -6,7 +6,25 @@
   <a href="https://portfolio-parthpandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
-🛡️ **Cybersecurity Analyst & Cloud / Network Security Engineer** with a strong foundation in **Full-Stack & AI Systems Development**. Passionate about Blue Team SOC operations, threat hunting, MITRE ATT&CK-aligned detection engineering, cloud infrastructure defense (AWS), zero-trust network architectures, and high-performance packet analysis.
+🛡️ **Cybersecurity Analyst & Cloud / Network Security Engineer** with deep expertise in **Full-Stack & Applied AI Systems Engineering**. Experienced in Blue Team SOC operations, MITRE ATT&CK detection engineering, cloud infrastructure defense (AWS), zero-trust network topologies, and high-performance packet analysis.
+
+---
+
+### 🎓 Engineering & Coding Progression
+
+```
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌──────────────────┐
+│  Year 1 (Sem 2) │ ──► │  Year 2 (Sem 3) │ ──► │  Year 2 (Sem 4) │ ──► │  Year 3 (Sem 5+) │
+│   C Foundations │     │    Java & OOP   │     │  Modern C++ &   │     │ Python AI/ML,    │
+│ Pointers, Memory│     │ Data Structures,│     │ DSA, Algorithms,│     │ Cloud Security,  │
+│ Systems Basics  │     │ Multithreading  │     │ Problem Solving │     │ SIEM & SOC Labs  │
+└─────────────────┘     └─────────────────┘     └─────────────────┘     └──────────────────┘
+```
+
+- **Sem 2 (1st Year)**: Mastered fundamental programming, low-level memory allocation, and pointers in **C**.
+- **Sem 3 (2nd Year)**: Expanded into Object-Oriented Programming, collections, and multi-threaded systems in **Java**.
+- **Sem 4 (2nd Year)**: Deep dive into **Modern C++ (C++17)** and rigorous **Data Structures & Algorithms (DSA)**, practicing C, Java, and C++ concurrently.
+- **Sem 5+ (3rd Year)**: Transitioned into **Python for AI/ML & Data Analytics**, building enterprise microservices, computer vision platforms, and cloud cybersecurity defense labs.
 
 ---
 
@@ -16,8 +34,9 @@
 Cybersecurity & SOC  │ Splunk SIEM, MITRE ATT&CK, Incident Response, Threat Triage, SIEM Ingestion
 Cloud Security (AWS) │ AWS CloudTrail, VPC Flow Logs, IAM Hardening, Zero Trust, Amazon SES, CloudWatch
 Network Engineering  │ Cisco ASA 5500-X, Check Point VSX, Firewalls, ACL Auditing, TCP/IP, libpcap, GNS3
+Programming & DSA    │ C, C++17, Java, Python, Data Structures & Algorithms, Systems Programming
 AI & Computer Vision │ PyTorch, YOLOv8, MediaPipe, OpenCV, Faster R-CNN, LSTM, TensorFlow, Gemini AI
-Backend & DevOps     │ Python, C++17, Node.js, Express.js, FastAPI, Docker, Docker Compose, Git, Linux
+Backend & DevOps     │ Node.js, Express.js, FastAPI, Docker, Docker Compose, Git, Linux, Vercel
 Databases & Web      │ MongoDB, SQLite, React.js, Next.js 14, Tailwind CSS, REST APIs, Socket.io
 ```
 
