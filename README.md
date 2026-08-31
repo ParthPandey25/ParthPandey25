@@ -4,40 +4,27 @@
   <a href="https://linkedin.com/in/parth-pandey-045709258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:parthrspandey25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://portfolio-parthpandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://tryhackme.com/p/parthrspandey25"><img src="https://img.shields.io/badge/TryHackMe-Top%208%25%20(58%2B%20Rooms)-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
 </p>
 
-🛡️ **Cybersecurity Analyst & Cloud / Network Security Engineer** with deep expertise in **Full-Stack & Applied AI Systems Engineering**. Experienced in Blue Team SOC operations, MITRE ATT&CK detection engineering, cloud infrastructure defense (AWS), zero-trust network topologies, and high-performance packet analysis.
+🛡️ **Cybersecurity Engineer · SOC Analyst · Cloud & Network Defense Specialist**  
+GATE CS 2026 Qualified (Score: 355) | Ranked in the **Top 8% on TryHackMe (58+ Rooms, 70-Day Streak)**.
+
+Passionate about Blue Team defense, SOC log analysis, threat hunting mapped to the **MITRE ATT&CK** framework, Red Teaming / offensive penetration testing, zero-trust network topologies, and scalable full-stack software development.
 
 ---
 
-### 🎓 Engineering & Coding Progression
+### 💻 Core Security & Engineering Competencies
 
 ```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌──────────────────┐
-│  Year 1 (Sem 2) │ ──► │  Year 2 (Sem 3) │ ──► │  Year 2 (Sem 4) │ ──► │  Year 3 (Sem 5+) │
-│   C Foundations │     │    Java & OOP   │     │  Modern C++ &   │     │ Python AI/ML,    │
-│ Pointers, Memory│     │ Data Structures,│     │ DSA, Algorithms,│     │ Cloud Security,  │
-│ Systems Basics  │     │ Multithreading  │     │ Problem Solving │     │ SIEM & SOC Labs  │
-└─────────────────┘     └─────────────────┘     └─────────────────┘     └──────────────────┘
-```
-
-- **Sem 2 (1st Year)**: Mastered fundamental programming, low-level memory allocation, and pointers in **C**.
-- **Sem 3 (2nd Year)**: Expanded into Object-Oriented Programming, collections, and multi-threaded systems in **Java**.
-- **Sem 4 (2nd Year)**: Deep dive into **Modern C++ (C++17)** and rigorous **Data Structures & Algorithms (DSA)**, practicing C, Java, and C++ concurrently.
-- **Sem 5+ (3rd Year)**: Transitioned into **Python for AI/ML & Data Analytics**, building enterprise microservices, computer vision platforms, and cloud cybersecurity defense labs.
-
----
-
-### 💻 Core Technical Competencies
-
-```
-Cybersecurity & SOC  │ Splunk SIEM, MITRE ATT&CK, Incident Response, Threat Triage, SIEM Ingestion
-Cloud Security (AWS) │ AWS CloudTrail, VPC Flow Logs, IAM Hardening, Zero Trust, Amazon SES, CloudWatch
-Network Engineering  │ Cisco ASA 5500-X, Check Point VSX, Firewalls, ACL Auditing, TCP/IP, libpcap, GNS3
-Programming & DSA    │ C, C++17, Java, Python, Data Structures & Algorithms, Systems Programming
-AI & Computer Vision │ PyTorch, YOLOv8, MediaPipe, OpenCV, Faster R-CNN, LSTM, TensorFlow, Gemini AI
-Backend & DevOps     │ Node.js, Express.js, FastAPI, Docker, Docker Compose, Git, Linux, Vercel
-Databases & Web      │ MongoDB, SQLite, React.js, Next.js 14, Tailwind CSS, REST APIs, Socket.io
+Blue Team & SOC Operations  │ Splunk Enterprise (SPL, Dashboards, Alerting), MITRE ATT&CK, NIST CSF/IR,
+                             │ L1/L2 Incident Triage, Log Correlation, S3 Exposure & IAM Abuse Detection
+Offensive Security & Tools   │ TryHackMe Top 8%, Nmap, Metasploit, Burp Suite, OpenStego, msfvenom,
+                             │ John the Ripper, Hashcat, Privilege Escalation, Web App Pentesting
+Network Defense & Firewalls  │ Check Point Gaia OS (CCSA/CCVS, VSX), Palo Alto NGFW, FortiGate 7.4,
+                             │ Cisco ASA 5500-X, Zscaler (ZTNA, ZIA, ZPA, SASE), Wireshark, libpcap, GNS3
+Cloud Infrastructure (AWS)   │ AWS CloudTrail, VPC Flow Logs, IAM Zero Trust, Lambda, SES, S3 Security
+Systems, Full-Stack & AI     │ Python, C++17, C, Java, FastAPI, Node.js, Express, Docker, PyTorch, YOLOv8
 ```
 
 ---
@@ -47,7 +34,7 @@ Databases & Web      │ MongoDB, SQLite, React.js, Next.js 14, Tailwind CSS, RE
 #### 🔍 [Home SOC Lab: Splunk SIEM & AWS CloudTrail Monitoring](https://github.com/ParthPandey25/splunk-soc-aws-cloudtrail-lab)
 - Real-time threat detection pipeline ingesting AWS CloudTrail and VPC Flow Logs into **Splunk Enterprise**.
 - Custom SPL detection rules mapped to **MITRE ATT&CK** (`T1110` Brute Force, `T1078` Root without MFA, `T1098` Privilege Escalation, `T1530` S3 public exposure, `T1046` Port scanning).
-- Includes ready-to-deploy **Splunk XML SOC monitoring dashboard** and simulated adversary attack logs.
+- Deployed a **Splunk XML SOC monitoring dashboard** with automated severity alerting on adversary telemetry.
 
 #### ⚡ [High-Performance Packet Analyzer (C++17 & libpcap)](https://github.com/ParthPandey25/cpp-packet-analyzer)
 - Native multi-threaded network sniffer decoding **Ethernet, IPv4, TCP, UDP, and ICMP** structures with sub-millisecond latency.
@@ -62,7 +49,7 @@ Databases & Web      │ MongoDB, SQLite, React.js, Next.js 14, Tailwind CSS, RE
 
 ---
 
-### 🚀 Featured Full-Stack & AI Systems Engineering
+### 🚀 Featured Full-Stack, Cloud & AI Systems
 
 #### 🧘 [Yoga Guru AI](https://github.com/ParthPandey25/Yoga-Guru-AI) *(⭐ Flagship)*
 - Multi-model Computer Vision yoga instructor with live posture correction using **YOLOv8**, **MediaPipe**, **Faster R-CNN**, and **LSTM**.
@@ -94,4 +81,5 @@ Databases & Web      │ MongoDB, SQLite, React.js, Next.js 14, Tailwind CSS, RE
 ### 📬 Connect With Me
 - 💼 **LinkedIn**: [linkedin.com/in/parth-pandey-045709258](https://www.linkedin.com/in/parth-pandey-045709258/)
 - 🌐 **Portfolio**: [portfolio-parthpandey.vercel.app](https://portfolio-parthpandey.vercel.app)
+- 🔴 **TryHackMe**: [tryhackme.com/p/parthrspandey25](https://tryhackme.com/p/parthrspandey25)
 - ✉️ **Email**: [parthrspandey25@gmail.com](mailto:parthrspandey25@gmail.com)
