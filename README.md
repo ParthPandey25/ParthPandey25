@@ -1,85 +1,170 @@
-# Hi there, I'm Parth Pandey 👋
+<div align="center">
 
-<p align="left">
-  <a href="https://linkedin.com/in/parth-pandey-045709258"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:parthrspandey25@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://portfolio-parthpandey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://tryhackme.com/p/parthrspandey25"><img src="https://img.shields.io/badge/TryHackMe-Top%208%25%20(58%2B%20Rooms)-red?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
-</p>
+# 🛡️ Parth Pandey
+### Aspiring Cybersecurity Engineer · Red Team & Blue Team Operations · Linux Systems Architect
 
-🛡️ **Cybersecurity Engineer · SOC Analyst · Cloud & Network Defense Specialist**  
-GATE CS 2026 Qualified (Score: 355) | Ranked in the **Top 8% on TryHackMe (58+ Rooms, 70-Day Streak)**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=10B981&center=true&vCenter=true&width=650&lines=SOC+Operations+%26+Splunk+SIEM+Engineering;TryHackMe+Top+2%25+Global+%5BGURU+Level+12%5D;Zero+Trust+Architecture+(Zscaler+Grade+'O');Ethical+Hacking+%26+Metasploitable+Port+Audit;C%2B%2B17+High-Performance+Packet+Analyzer;B.Tech+CSE+Graduate+%7C+GATE+Qualified)](https://git.io/typing-svg)
 
-Passionate about Blue Team defense, SOC log analysis, threat hunting mapped to the **MITRE ATT&CK** framework, Red Teaming / offensive penetration testing, zero-trust network topologies, and scalable full-stack software development.
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=10b981&labelColor=0f172a&color=10b981)](https://portfolio-parthpandey.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parth_Pandey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pandey-045709258/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-parthrspandey25_Top_2%25-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/parthrspandey25)
+[![Email](https://img.shields.io/badge/Email-parthrspandey25@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthrspandey25@gmail.com)
 
-### 💻 Core Security & Engineering Competencies
+<br/>
 
+```bash
+parth@sec-ops:~$ whoami --verbose
 ```
-Blue Team & SOC Operations  │ Splunk Enterprise (SPL, Dashboards, Alerting), MITRE ATT&CK, NIST CSF/IR,
-                             │ L1/L2 Incident Triage, Log Correlation, S3 Exposure & IAM Abuse Detection
-Offensive Security & Tools   │ TryHackMe Top 8%, Nmap, Metasploit, Burp Suite, OpenStego, msfvenom,
-                             │ John the Ripper, Hashcat, Privilege Escalation, Web App Pentesting
-Network Defense & Firewalls  │ Check Point Gaia OS (CCSA/CCVS, VSX), Palo Alto NGFW, FortiGate 7.4,
-                             │ Cisco ASA 5500-X, Zscaler (ZTNA, ZIA, ZPA, SASE), Wireshark, libpcap, GNS3
-Cloud Infrastructure (AWS)   │ AWS CloudTrail, VPC Flow Logs, IAM Zero Trust, Lambda, SES, S3 Security
-Systems, Full-Stack & AI     │ Python, C++17, C, Java, FastAPI, Node.js, Express, Docker, PyTorch, YOLOv8
+> **B.Tech Computer Science Engineering** (CGPA: 8.3/10 | GATE Score: 355). Specialized in **Blue Teaming (SOC / SIEM / Threat Detection)**, **Red Teaming (Vulnerability Research / Network Penetration)**, and **Hardened Linux Infrastructure**. Certified across Google Cybersecurity Professional, Cisco CCNA / CompTIA Network+ (Unisoft), Certified Ethical Hacker (CEH), Check Point, Fortinet, and Zscaler.
+</div>
+
+---
+
+### ⚡ Live Threat & Profile Telemetry
+
+<div align="center">
+
+| 🏆 TryHackMe Global Standing | 📊 Engineering Velocity |
+| :---: | :---: |
+| <a href="https://tryhackme.com/p/parthrspandey25"><img src="https://tryhackme-badges.s3.amazonaws.com/parthrspandey25.png" alt="TryHackMe Badge" width="280" /></a><br/>**Top 2% Global** (#42,194) · **Level 12 `[GURU]`**<br/>**115+ Rooms** · **🔥 122-Day Streak** · **23 Badges (Diamond)** | <img src="https://github-readme-stats.vercel.app/api?username=ParthPandey25&show_icons=true&theme=tokyonight&hide_border=false&border_color=10b981&bg_color=020617&title_color=34d399&text_color=94a3b8&icon_color=38bdf8" alt="GitHub Stats" width="370" /> |
+
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ParthPandey25&theme=tokyonight&border=10b981&background=020617&stroke=10b981&ring=34d399&fire=f97316&currStreakNum=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 🧰 Bento-Grid Technical Arsenal
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Defensive Security & SOC Operations</h3>
+      <ul>
+        <li><b>SIEM & Telemetry:</b> Splunk Enterprise (SPL queries, alert pipelines, dashboarding)</li>
+        <li><b>Log Ingestion:</b> AWS CloudTrail, VPC Flow Logs, Linux <code>syslog</code>, <code>auditd</code></li>
+        <li><b>Traffic Dissection:</b> Wireshark, Tcpdump, Snort, Suricata</li>
+        <li><b>Threat Frameworks:</b> MITRE ATT&CK (T1110, T1078, T1098, T1530 mapping)</li>
+        <li><b>Incident Response:</b> Linux triage, memory artifact analysis, privilege auditing</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚔️ Offensive Security & Red Teaming</h3>
+      <ul>
+        <li><b>Network Recon:</b> Nmap (port-by-port vulnerability scripts, NSE, stealth SYN scans)</li>
+        <li><b>Exploitation:</b> Metasploit Framework, MSFvenom, exploit chaining</li>
+        <li><b>Web Security:</b> Burp Suite Pro, PortSwigger Labs, OWASP Top 10 (SQLi, XSS, SSRF, IDOR)</li>
+        <li><b>Wargames & Labs:</b> TryHackMe Top 2%, OverTheWire Bandit/Natas, Hack The Box</li>
+        <li><b>Target Auditing:</b> Metasploitable 2/3 deep multi-port penetration analysis</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 Enterprise Network Defense & Zero Trust</h3>
+      <ul>
+        <li><b>Zero Trust Architecture:</b> Zscaler ZPA & ZIA (Grade 'O' Certification)</li>
+        <li><b>Enterprise Firewalls:</b> Check Point Gaia (CCSA/CCVS), Palo Alto Strata, Fortinet FortiOS</li>
+        <li><b>Edge Appliances:</b> Cisco ASA, NAT, ACL policy compliance engines</li>
+        <li><b>Simulation:</b> GNS3, Cisco Packet Tracer, EVENG, Virtual SOC Lab topologies</li>
+        <li><b>Protocols:</b> TCP/IP suite, BGP, OSPF, VLANs, 802.1Q, DNSSEC, TLS 1.3</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Systems, Cloud & High-Perf Code</h3>
+      <ul>
+        <li><b>Operating Systems:</b> Linux (Debian, Ubuntu, RHEL, Arch), Bash shell scripting</li>
+        <li><b>High-Performance Code:</b> C++17 (multi-threading, <code>libpcap</code> packet decoding), C</li>
+        <li><b>Security Tooling:</b> Python (network sockets, log parsers, exploit verification scripts)</li>
+        <li><b>Cloud & Containers:</b> AWS (EC2, S3, IAM, CloudWatch), Docker, Docker Compose, Kubernetes</li>
+        <li><b>Web Engineering:</b> React, Next.js, Node.js, Spring Boot Java Security</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Flagship Engineering Projects (STAR Methodology)
+
+#### 1. [Home SOC Lab — Splunk SIEM & AWS CloudTrail Monitoring](https://github.com/ParthPandey25/splunk-soc-aws-cloudtrail-lab)
+> **SIEM & Cloud Threat Detection Pipeline**
+- **Situation:** Cloud environments are perpetually targeted by credential stuffing, unauthorized privilege escalation, and exposed data stores without real-time detection.
+- **Task:** Architect an automated, production-grade cloud telemetry ingestion pipeline mapping events to MITRE ATT&CK tactics.
+- **Action:** Ingested AWS CloudTrail and VPC Flow Logs into Splunk Enterprise via AWS Add-on. Engineered custom SPL detection correlations targeting brute force (`T1110`), root logins without MFA (`T1078`), IAM policy tampering (`T1098`), and public S3 bucket ACL changes (`T1530`).
+- **Result:** Decreased mean-time-to-detect (MTTD) from hours to sub-minute alerts with automated SOC triage dashboards.
+
+#### 2. [Automated Metasploitable Port-by-Port Vulnerability & Exploit Laboratory](https://github.com/ParthPandey25/parthpandey-cyberlab)
+> **Comprehensive Multi-Port Vulnerability Assessment & Remediation**
+- **Situation:** Legacy network services expose dangerous vulnerabilities requiring rigorous penetration testing and mitigation validation.
+- **Task:** Conduct an end-to-end vulnerability assessment across all standard listening ports on a controlled target host.
+- **Action:** Executed precision Nmap NSE vulnerability audits across Port 21 (vsftpd backdoor), Port 22 (SSH brute-force hardening), Port 23 (Telnet cleartext sniff), Port 25 (SMTP user enumeration), Port 80 (Apache PHP CGI RCE & OWASP vulnerabilities), and Ports 139/445 (Samba `usermap_script` RCE). Verified attack vectors using Metasploit and documented step-by-step mitigation configurations (iptables, configuration hardening, disabling insecure daemons).
+- **Result:** Achieved 100% exploit verification and compiled a hardened remediation runbook for enterprise systems.
+
+#### 3. [High-Performance Network Packet Analyzer (C++17 & libpcap)](https://github.com/ParthPandey25/cpp-packet-analyzer)
+> **Low-Latency Raw Ethernet Frame & IP Protocol Dissector**
+- **Situation:** High-throughput networks require sub-millisecond packet capture and dissection without dropping frames.
+- **Task:** Construct a standalone multi-threaded network sniffer capable of decoding raw layer 2, 3, and 4 protocol headers in real time.
+- **Action:** Implemented POSIX threads and C++17 memory management with `libpcap`. Built decoders for Ethernet frames, IPv4/IPv6, TCP flags (SYN, ACK, FIN, RST), UDP, and ICMP payloads with lock-free atomic counters for live bandwidth and packet-per-second (PPS) telemetry.
+- **Result:** Zero packet drop at wire speed in gigabit test streams with real-time CLI terminal metrics.
+
+#### 4. [Enterprise Secure Finance Platform & Web App Penetration Audit](https://github.com/ParthPandey25/Finance-Management-WebApp)
+> **Full-Stack Financial Application with DevSecOps & OWASP Hardening**
+- **Situation:** Web applications handling financial transactions face critical risks from broken access control, injection, and session hijacking.
+- **Task:** Engineer a production financial dashboard with enterprise defense-in-depth security controls and validate against OWASP Top 10.
+- **Action:** Developed dual backend APIs (Spring Boot Security + Express.js) secured with JWT RBAC, BOLA/IDOR mitigations, strict CORS, and BCrypt password hashing. Performed DAST testing with Burp Suite and automated security unit test suites.
+- **Result:** Defended 100% of tested OWASP attack vectors with zero unauthorized object reference leaks.
+
+#### 5. [Distributed Enterprise Firewall Topology & Policy Auditor](https://github.com/ParthPandey25/enterprise-firewall-topology)
+> **Zero-Trust Multi-Zone Edge Perimeter in GNS3**
+- **Situation:** Complex enterprise networks frequently accumulate conflicting, overly permissive firewall rules.
+- **Task:** Design a multi-zone corporate architecture and develop automated policy compliance verification.
+- **Action:** Deployed Cisco ASA and Check Point Gaia firewalls segmenting `OUTSIDE`, `DMZ`, and `CORP-INTERNAL` zones. Authored a Python policy compliance script parsing ACL configurations to flag rule shadowing and any-to-any exposure.
+- **Result:** Validated strict zero-trust least-privilege enforcement across 4 simulated enterprise subnets.
+
+---
+
+### 🏢 Verified Virtual Internships & Industrial Proof of Work
+
+| Organization | Specialization | Key Contributions & Validated Skills |
+| :--- | :--- | :--- |
+| **Zscaler** | Zero Trust Cloud Security Intern (Grade 'O') | Engineered private access (ZPA) and internet access (ZIA) zero-trust microsegmentation policies. Grade 'O' Outstanding. |
+| **Palo Alto Networks** | Cybersecurity Virtual Intern | Configured Next-Gen Firewalls (NGFW), threat prevention profiles, DNS sinkholing, and automated malware sandboxing (WildFire). |
+| **Fortinet** | Network Security Associate Intern | Deployed FortiGate 7.4 firewall policies, SSL-VPN inspection, and secure SD-WAN edge security topology. |
+| **Google Cloud** | Cloud Engineering Virtual Intern | Architected IAM least-privilege policies, VPC peering, Compute Engine instances, and Cloud Armor security rules. |
+| **BrainOvision / AICTE** | AWS Cloud Virtual Intern | Configured secure EC2 architectures, S3 bucket encryption, VPC security groups, and CloudTrail audit trails. |
+| **EY GDS** | Cybersecurity Simulation | Executed enterprise threat hunting, vulnerability scoring (CVSS), and blue-team incident report delivery. |
+
+---
+
+### 📜 Professional Certifications & Accreditations
+
+- 🎓 **Google Cybersecurity Professional Certificate** — Coursera / Google
+- 🎓 **Google IT Support Professional Certificate** — Coursera / Google
+- 🎓 **Cisco CCNA / CompTIA Network+ (180h)** — Unisoft Technologies
+- 🎓 **Certified Ethical Hacker (CEH v12)** — Industrial Credential
+- 🎓 **Check Point Certified Security Administrator (CCSA) & VSX Specialist (CCVS)**
+- 🎓 **Fortinet Certified Associate (FCA) & FortiGate 7.4 Operator**
+- 🎓 **Palo Alto Networks Cybersecurity Foundation & Security Operations**
+- 🎓 **Zscaler Zero Trust Certified Associate (ZTCA)**
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Collaborate
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-pandey-045709258/)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthrspandey25@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-020617?style=for-the-badge&logo=vercel&logoColor=10b981&labelColor=0f172a&color=10b981)](https://portfolio-parthpandey.vercel.app/)
+
+```text
+[SYSTEM] PGP Key Fingerprint: 0xPARTH-SEC-2026-STABLE
+[STATUS] Open to Security Operations (SOC), Red Team, and Linux Engineering Roles
 ```
 
----
-
-### 🛡️ Featured Cybersecurity & Cloud Defense Projects
-
-#### 🔍 [Home SOC Lab: Splunk SIEM & AWS CloudTrail Monitoring](https://github.com/ParthPandey25/splunk-soc-aws-cloudtrail-lab)
-- Real-time threat detection pipeline ingesting AWS CloudTrail and VPC Flow Logs into **Splunk Enterprise**.
-- Custom SPL detection rules mapped to **MITRE ATT&CK** (`T1110` Brute Force, `T1078` Root without MFA, `T1098` Privilege Escalation, `T1530` S3 public exposure, `T1046` Port scanning).
-- Deployed a **Splunk XML SOC monitoring dashboard** with automated severity alerting on adversary telemetry.
-
-#### ⚡ [High-Performance Packet Analyzer (C++17 & libpcap)](https://github.com/ParthPandey25/cpp-packet-analyzer)
-- Native multi-threaded network sniffer decoding **Ethernet, IPv4, TCP, UDP, and ICMP** structures with sub-millisecond latency.
-- Lock-free atomic throughput telemetry engine calculating real-time **Packets Per Second (PPS)** and bandwidth (**Mbps**).
-
-#### 🏰 [Distributed Enterprise Firewall Topology & Policy Auditor](https://github.com/ParthPandey25/enterprise-firewall-topology)
-- Modeled high-availability corporate edge architecture with **Cisco ASA** and **Check Point Gaia** zero-trust zone segmentation (`OUTSIDE`, `DMZ`, `CORP-INTERNAL`).
-- Custom Python compliance engine (`audit_firewall_rules.py`) automatically flagging over-permissive ACLs and unencrypted protocols.
-
-#### 🔐 [Cryptographic Image Steganography](https://github.com/ParthPandey25/Stegenography_image)
-- Security utility embedding password-protected encrypted secret payloads directly into lossless image RGB pixel matrices using **Python** and **OpenCV**.
-
----
-
-### 🚀 Featured Full-Stack, Cloud & AI Systems
-
-#### 🧘 [Yoga Guru AI](https://github.com/ParthPandey25/Yoga-Guru-AI) *(⭐ Flagship)*
-- Multi-model Computer Vision yoga instructor with live posture correction using **YOLOv8**, **MediaPipe**, **Faster R-CNN**, and **LSTM**.
-- Integrates **Google Gemini 2.5 Flash** for dynamic biological diet generation and rule-based routine recommendation.
-
-#### 💼 [Employee Salary Prediction Microservices](https://github.com/ParthPandey25/employee-salary-prediction)
-- Production **Docker Compose** microservice architecture with an **Express.js API Gateway** (Helmet + Morgan), an isolated **FastAPI ML inference engine** (Gradient Boosting), and a **React/Vite** frontend.
-
-#### 🎬 [BookMyShow Clone](https://github.com/ParthPandey25/BookMyShow-Clone)
-- Full-stack MERN cinema platform with multi-city showtimes, interactive curved cinema seat selection, and **Razorpay** checkout.
-
-#### 💰 [Smart Spender](https://github.com/ParthPandey25/Smart-Spender)
-- Scalable financial budgeting & analytics REST API with **JWT authentication**, **Bcrypt** security, and real-time **Socket.io** event syncing.
-
-#### 🎙️ [Alexa Voice-Controlled Mass Email System](https://github.com/ParthPandey25/alexa-voice-mass-email)
-- Serverless event-driven mass communication pipeline integrating **Alexa Skills Kit**, **AWS Lambda**, and **Amazon SES**.
-
----
-
-### 📊 GitHub Activity & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthPandey25&show_icons=true&theme=tokyonight&hide_border=true" alt="Parth's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParthPandey25&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
-### 📬 Connect With Me
-- 💼 **LinkedIn**: [linkedin.com/in/parth-pandey-045709258](https://www.linkedin.com/in/parth-pandey-045709258/)
-- 🌐 **Portfolio**: [portfolio-parthpandey.vercel.app](https://portfolio-parthpandey.vercel.app)
-- 🔴 **TryHackMe**: [tryhackme.com/p/parthrspandey25](https://tryhackme.com/p/parthrspandey25)
-- ✉️ **Email**: [parthrspandey25@gmail.com](mailto:parthrspandey25@gmail.com)
+</div>
