@@ -43,45 +43,41 @@ parth@sec-ops:~$ whoami --verbose
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ Defensive Security & SOC Operations</h3>
+      <h3>🛡️ Blue Team / SOC & SIEM Operations</h3>
       <ul>
-        <li><b>SIEM & Telemetry:</b> Splunk Enterprise (SPL queries, alert pipelines, dashboarding)</li>
-        <li><b>Log Ingestion:</b> AWS CloudTrail, VPC Flow Logs, Linux <code>syslog</code>, <code>auditd</code></li>
-        <li><b>Traffic Dissection:</b> Wireshark, Tcpdump, Snort, Suricata</li>
-        <li><b>Threat Frameworks:</b> MITRE ATT&CK (T1110, T1078, T1098, T1530 mapping)</li>
-        <li><b>Incident Response:</b> Linux triage, memory artifact analysis, privilege auditing</li>
+        <li><b>SIEM & XDR Platforms:</b> Splunk Enterprise (SPL correlations, alert pipelines), Wazuh EDR, Elastic Security, Microsoft Sentinel, Security Onion</li>
+        <li><b>Log Telemetry Ingestion:</b> AWS CloudTrail, VPC Flow Logs, Linux <code>syslog</code>, <code>auditd</code>, Windows Event Logs</li>
+        <li><b>Frameworks:</b> MITRE ATT&CK (T1110, T1078, T1098, T1530 mapping), NIST Incident Response</li>
+        <li><b>Cloud SOC:</b> Automated S3 public exposure alerts, IAM privilege escalation detection</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>⚔️ Offensive Security & Red Teaming</h3>
+      <h3>⚔️ Reconnaissance & Web Security (Red Team)</h3>
       <ul>
-        <li><b>Network Recon:</b> Nmap (port-by-port vulnerability scripts, NSE, stealth SYN scans)</li>
-        <li><b>Exploitation:</b> Metasploit Framework, MSFvenom, exploit chaining</li>
-        <li><b>Web Security:</b> Burp Suite Pro, PortSwigger Labs, OWASP Top 10 (SQLi, XSS, SSRF, IDOR)</li>
-        <li><b>Wargames & Labs:</b> TryHackMe Top 2%, OverTheWire Bandit/Natas, Hack The Box</li>
-        <li><b>Target Auditing:</b> Metasploitable 2/3 deep multi-port penetration analysis</li>
+        <li><b>Reconnaissance & OSINT:</b> Nmap (port-by-port NSE audits), Amass, Subfinder, theHarvester, Shodan</li>
+        <li><b>Web Security & DAST:</b> Burp Suite Pro, OWASP ZAP, Nikto, Gobuster, SQLmap, PortSwigger Labs</li>
+        <li><b>Vulnerability Research:</b> Metasploit Framework, Metasploitable 2/3 multi-port exploitation</li>
+        <li><b>Wargames & Labs:</b> TryHackMe Top 2% (Level 12 [GURU]), OverTheWire, Hack The Box</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 Enterprise Network Defense & Zero Trust</h3>
+      <h3>🔍 Network Security & Deep Traffic Inspection</h3>
       <ul>
-        <li><b>Zero Trust Architecture:</b> Zscaler ZPA & ZIA (Grade 'O' Certification)</li>
-        <li><b>Enterprise Firewalls:</b> Check Point Gaia (CCSA/CCVS), Palo Alto Strata, Fortinet FortiOS</li>
-        <li><b>Edge Appliances:</b> Cisco ASA, NAT, ACL policy compliance engines</li>
-        <li><b>Simulation:</b> GNS3, Cisco Packet Tracer, EVENG, Virtual SOC Lab topologies</li>
-        <li><b>Protocols:</b> TCP/IP suite, BGP, OSPF, VLANs, 802.1Q, DNSSEC, TLS 1.3</li>
+        <li><b>Packet Dissection:</b> Wireshark, tcpdump, raw socket protocol decoding</li>
+        <li><b>Network Telemetry & NIDS:</b> Zeek (Bro), Suricata, Snort signature detection</li>
+        <li><b>High-Performance Code:</b> C++17 multithreaded raw Ethernet/IP packet analyzer (<code>libpcap</code>)</li>
+        <li><b>Protocols & Topologies:</b> TCP/IP suite, BGP, OSPF, VLANs, 802.1Q, DNSSEC, TLS 1.3</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>💻 Systems, Cloud & High-Perf Code</h3>
+      <h3>🔬 Digital Forensics & Reverse Engineering</h3>
       <ul>
-        <li><b>Operating Systems:</b> Linux (Debian, Ubuntu, RHEL, Arch), Bash shell scripting</li>
-        <li><b>High-Performance Code:</b> C++17 (multi-threading, <code>libpcap</code> packet decoding), C</li>
-        <li><b>Security Tooling:</b> Python (network sockets, log parsers, exploit verification scripts)</li>
-        <li><b>Cloud & Containers:</b> AWS (EC2, S3, IAM, CloudWatch), Docker, Docker Compose, Kubernetes</li>
-        <li><b>Web Engineering:</b> React, Next.js, Node.js, Spring Boot Java Security</li>
+        <li><b>Disk & Host Forensics:</b> Autopsy, FTK Imager forensic disk acquisition</li>
+        <li><b>Memory Analysis:</b> Volatility (process dumps, injected code artifacts, network sockets)</li>
+        <li><b>Timeline & Reverse Engineering:</b> Plaso (log2timeline), Ghidra decompiler & binary disassembly</li>
+        <li><b>Zero Trust & Edge Defense:</b> Zscaler ZPA/ZIA (Grade 'O'), Check Point Gaia (CCSA/CCVS), Palo Alto NGFW, Fortinet FortiGate</li>
       </ul>
     </td>
   </tr>
