@@ -152,6 +152,7 @@ parth@sec-ops:~$ whoami --verbose
 
 - 🎓 **Google Cybersecurity Professional Certificate** — Coursera / Google
 - 🎓 **Google IT Support Professional Certificate** — Coursera / Google
+- 🎓 **OWASP Top 10: 2023 Application Security & Mitigation** — Infosec / Coursera
 - 🎓 **CompTIA Network+ & EC-Council CEH v13 Training** — Unisoft Technologies
 - 🎓 **Check Point Certified Security Administrator (CCSA) & VSX Specialist (CCVS)**
 - 🎓 **Fortinet Certified Associate (FCA) & FortiGate 7.4 Operator**
