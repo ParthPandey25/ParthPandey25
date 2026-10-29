@@ -141,8 +141,7 @@ parth@sec-ops:~$ whoami --verbose
 
 - 🎓 **Google Cybersecurity Professional Certificate** — Coursera / Google
 - 🎓 **Google IT Support Professional Certificate** — Coursera / Google
-- 🎓 **Cisco CCNA / CompTIA Network+ (180h)** — Unisoft Technologies
-- 🎓 **Certified Ethical Hacker (CEH v12)** — Industrial Credential
+- 🎓 **CompTIA Network+ & EC-Council CEH v13 Training** — Unisoft Technologies
 - 🎓 **Check Point Certified Security Administrator (CCSA) & VSX Specialist (CCVS)**
 - 🎓 **Fortinet Certified Associate (FCA) & FortiGate 7.4 Operator**
 - 🎓 **Palo Alto Networks Cybersecurity Foundation & Security Operations**
