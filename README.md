@@ -22,6 +22,17 @@ parth@sec-ops:~$ whoami --verbose
 
 ---
 
+### 🔭 What I'm Currently Doing
+
+- 🎓 **Google Cybersecurity Professional Certificate** (Coursera) — **Completed (All 8 Courses Verified)**
+- 🛡️ **EC-Council CEH v13 & CompTIA Network+ / Cisco CCNA** training at [Unisoft Technologies](https://www.unisoftindia.org/), Nagpur
+- 🎓 **Applied Cryptography** (University of Colorado) & **IBM Cybersecurity Analyst** specialization on Coursera
+- 🏴‍☠️ **TryHackMe** — **Top 2% Globally [Level 12 GURU]**, 115+ rooms completed, 🔥 **122-day continuous streak**, 23 badges
+- 🔬 Engineering a **Home SOC Lab** with Splunk SIEM + AWS CloudTrail ingestion & live MITRE ATT&CK correlation
+- 📝 Publishing hands-on vulnerability assessments & threat hunting research on [CyberLab](https://parthpandey25.github.io/parthpandey-cyberlab/) (23 Technical Articles)
+
+---
+
 ### ⚡ Live Threat & Profile Telemetry
 
 <div align="center">
